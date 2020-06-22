@@ -21,14 +21,14 @@
 <table>
   <tr>
     <td><img src=".attachments/TouchPadScreen.png" alt="Touch Pad Screen" /></td>
-    <td>
+    <td valign="top">
       <ul>
-      <li>Control connection state</li>
-      <li>Mouse pointer control</li>
-      <li>Tap on the touch surface produces a mouse left button click</li>
-      <li>Mouse left, middle and right buttons control</li>
-      <li>Mouse scroll control</li>
-    </ul>
+        <li>Control connection state</li>
+        <li>Mouse pointer control</li>
+        <li>Tap on the touch surface produces a mouse left button click</li>
+        <li>Mouse left, middle and right buttons control</li>
+        <li>Mouse scroll control</li>
+      </ul>
     </td>
   </tr>
 </table>
