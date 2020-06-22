@@ -34,27 +34,27 @@
 </table>
 
 ## Settings Screen
-<div style="display: flex">
-  <div style="flex: 50%">
-    <img src=".attachments/SettingsScreen.png" alt="Settings Screen" />
-  </div>
-  <div style="flex: 50%">
-    <ul>
-      <li>Language selection (English, Russian, Ukrainian)</li>
-      <li>Enable/Disable automatic connection establishment on the application startup</li>
-      <li>Connection settings</li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img src=".attachments/SettingsScreen.png" alt="Settings Screen" /></td>
+    <td valign="top">
+      <ul>
+        <li>Language selection (English, Russian, Ukrainian)</li>
+        <li>Enable/Disable automatic connection establishment on the application startup</li>
+        <li>Connection settings</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Info Screen
-<div style="display: flex">
-  <div style="flex: 50%">
-    <img src=".attachments/InfoScreen.png" alt="Info Screen" />
-  </div>
-  <div style="flex: 50%">
-    <ul>
-      <li>Some information about the application</li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img src=".attachments/InfoScreen.png" alt="Info Screen" /></td>
+    <td valign="top">
+      <ul>
+        <li>Some information about the application</li>
+      </ul>
+    </td>
+  </tr>
+</table>
