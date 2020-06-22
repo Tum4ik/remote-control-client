@@ -18,7 +18,7 @@
 ![Platform: Android](https://img.shields.io/badge/Platform-Android-99cc02)
 
 ## Touch Pad Screen
-<div style="display: flex">
+<pre><div style="display: flex">
   <div style="flex: 50%">
     <img src="https://github.com/Tum4ik/remote-control-client/blob/master/.attachments/TouchPadScreen.png?raw=true" alt="Touch Pad Screen" />
   </div>
@@ -31,7 +31,7 @@
       <li>Mouse scroll control</li>
     </ul>
   </div>
-</div>
+</div></pre>
 
 ## Settings Screen
 <div style="display: flex">
