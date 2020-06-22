@@ -20,7 +20,7 @@
 ## Touch Pad Screen
 <table>
   <tr>
-    <td><img src=".attachments/TouchPadScreen.png" alt="Touch Pad Screen" /></td>
+    <td width="500px"><img src=".attachments/TouchPadScreen.png" alt="Touch Pad Screen" /></td>
     <td valign="top">
       <ul>
         <li>Control connection state</li>
@@ -36,7 +36,7 @@
 ## Settings Screen
 <table>
   <tr>
-    <td><img src=".attachments/SettingsScreen.png" alt="Settings Screen" width="500px" /></td>
+    <td width="500px"><img src=".attachments/SettingsScreen.png" alt="Settings Screen" /></td>
     <td valign="top">
       <ul>
         <li>Language selection (English, Russian, Ukrainian)</li>
@@ -50,7 +50,7 @@
 ## Info Screen
 <table>
   <tr>
-    <td><img src=".attachments/InfoScreen.png" alt="Info Screen" /></td>
+    <td width="500px"><img src=".attachments/InfoScreen.png" alt="Info Screen" /></td>
     <td valign="top">
       <ul>
         <li>Some information about the application</li>
