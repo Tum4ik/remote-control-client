@@ -18,7 +18,7 @@
 ![Platform: Android](https://img.shields.io/badge/Platform-Android-99cc02)
 
 ## Touch Pad Screen
-<table border="none" cellspacing="0" cellpadding="0">
+<table border="none">
   <tr>
     <td><img src=".attachments/TouchPadScreen.png" alt="Touch Pad Screen" /></td>
     <td valign="top">
