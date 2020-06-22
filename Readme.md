@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  <img src=".attachments/logo.png?raw=true" />
+  <img src=".attachments/logo.png" />
 </p>
 
 # Remote Control Client
