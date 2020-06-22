@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github.com/Tum4ik/remote-control-client/blob/master/.attachments/logo.png?raw=true" />
+  <img src=".attachments/logo.png?raw=true" />
 </p>
 
 # Remote Control Client
