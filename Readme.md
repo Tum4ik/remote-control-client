@@ -36,7 +36,7 @@
 ## Settings Screen
 <table>
   <tr>
-    <td><img src=".attachments/SettingsScreen.png" alt="Settings Screen" width="100%" /></td>
+    <td><img src=".attachments/SettingsScreen.png" alt="Settings Screen" width="500px" /></td>
     <td valign="top">
       <ul>
         <li>Language selection (English, Russian, Ukrainian)</li>
