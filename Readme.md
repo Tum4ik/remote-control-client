@@ -17,6 +17,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 ![Platform: Android](https://img.shields.io/badge/Platform-Android-99cc02)
 
+To be able to use this application you also need to install [Remote Control Server](https://github.com/Tum4ik/remote-control-server) on your PC.
+
 ## Touch Pad Screen
 <table>
   <tr>
