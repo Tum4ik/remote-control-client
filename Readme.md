@@ -14,7 +14,7 @@
 [![Remote Control Client: Downloads](https://img.shields.io/badge/Remote_Control_Client-Downloads-007ACC)](https://github.com/Tum4ik/remote-control-client/releases)
 [![Latest version: 1.0.20170.5](https://img.shields.io/badge/Latest_version-1.0.20170.5-007ACC)](https://github.com/Tum4ik/remote-control-client/releases/download/1.0.20170.5/RemoteControlClient-1.0.20170.5.apk)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green)](LICENSE)
 ![Platform: Android](https://img.shields.io/badge/Platform-Android-99cc02)
 
 To be able to use this application you also need to install [Remote Control Server](https://github.com/Tum4ik/remote-control-server) on your PC.
