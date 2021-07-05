@@ -12,7 +12,7 @@
 
 # Remote Control Client
 [![Remote Control Client: Downloads](https://img.shields.io/badge/Remote_Control_Client-Downloads-007ACC)](https://github.com/Tum4ik/remote-control-client/releases)
-[![Latest version: 1.0.20170.5](https://img.shields.io/badge/Latest_version-1.0.20170.5-007ACC)](https://github.com/Tum4ik/remote-control-client/releases/download/1.0.20170.5/RemoteControlClient-1.0.20170.5.apk)
+[![Latest version: 1.1.21184.2](https://img.shields.io/badge/Latest_version-1.1.21184.2-007ACC)](https://github.com/Tum4ik/remote-control-client/releases/download/1.1.21184.2/RemoteControlClient-1.1.21184.2.apk)
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green)](LICENSE)
 ![Platform: Android](https://img.shields.io/badge/Platform-Android-99cc02)
