@@ -75,6 +75,7 @@ To be able to use this application you also need to install [Remote Control Serv
     <td valign="top">
       <ul>
         <li>Some information about the application</li>
+        <li>Check for updates, check release notes and dowlnoad the newest version</li>
       </ul>
     </td>
   </tr>
